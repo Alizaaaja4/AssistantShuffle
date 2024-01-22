@@ -1,2 +1,2 @@
-## Scientific Calculator
+## Calculator
 on going 🧹
